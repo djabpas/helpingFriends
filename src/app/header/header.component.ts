@@ -7,7 +7,7 @@ import { MoviesService }            from '../movies/movies.service';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent implements OnInit {
-  title = 'Allegro MovieDB';
+  title = 'TP BOX OFFICE 2020';
   language : string;
 
   constructor(
